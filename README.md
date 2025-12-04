@@ -5,6 +5,7 @@ right now I'm doing my third year.
 
 _________________________________________________________________________________
 <img align="right" width="512" height="512" alt="emoji" src="https://github.com/user-attachments/assets/f5985e40-7176-4b30-bbb7-88a11593df2d" />
+
 I'm not that terrible at:
 - Java
 - HTML
