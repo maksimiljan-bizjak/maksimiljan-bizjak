@@ -1,16 +1,25 @@
-## Hi there 👋
+# Kdo sem?
+Hi, my name is Maksimiljan Bizjak, I come from a small town in Slovenia.
+I'm currently studying at the ERŠ at the Nova Gorica School Center to be a Computer Technician,
+right now I'm doing my third year.
 
-<!--
-**maksimiljan-bizjak/maksimiljan-bizjak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_________________________________________________________________________________
 
-Here are some ideas to get you started:
+I'm not that terrible at:
+- Java
+- HTML
+- CSS                     ![emoji](https://www.pngall.com/3d-png/)
+- Networking
+- Linux
+- Video editing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_________________________________________________________________________________  
+
+I 'd like to learn / I'm learning:
+- Lua
+- JavaScript
+
+_________________________________________________________________________________
+
+
+if u wanna play ==>[chess](https://www.chess.com/member/maksimiljanb)<==
