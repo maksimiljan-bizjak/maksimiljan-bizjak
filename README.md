@@ -1,5 +1,5 @@
 # Whoami?
-Hi, my name is Maksimiljan, I come from a small town in Slovenia:slovenia:.
+Hi, my name is Maksimiljan, I come from a small town in Slovenia.
 I'm currently studying at the ERŠ at the Nova Gorica School Center to be a Computer Technician,
 right now I'm doing my third year.
 
@@ -23,4 +23,4 @@ ________________________________________________________________________________
 _________________________________________________________________________________
 
 
-if u wanna play ==>[chess](https://www.chess.com/member/maksimiljanb)<==:chess_pawn:
+if u wanna play ==>[chess](https://www.chess.com/member/maksimiljanb)<==
