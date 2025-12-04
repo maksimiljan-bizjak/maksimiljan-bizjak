@@ -8,7 +8,7 @@ ________________________________________________________________________________
 I'm not that terrible at:
 - Java
 - HTML
-- CSS                    <img style="float: right" width="512" height="512" alt="emoji" src="https://github.com/user-attachments/assets/f5985e40-7176-4b30-bbb7-88a11593df2d" />
+- CSS                    <img align="right" width="512" height="512" alt="emoji" src="https://github.com/user-attachments/assets/f5985e40-7176-4b30-bbb7-88a11593df2d" />
 )
 - Networking
 - Linux
