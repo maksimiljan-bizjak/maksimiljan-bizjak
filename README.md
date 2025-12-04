@@ -8,7 +8,8 @@ ________________________________________________________________________________
 I'm not that terrible at:
 - Java
 - HTML
-- CSS                     ![emoji]([https://www.pngall.com/3d-png/](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F15%2F3D-Emoji-PNG-Image.png&f=1&nofb=1&ipt=cc6373ccc4f31a5a2158be8ffc542c35c215f6d525da0ebfead1c3c8948303da))
+- CSS                    <img width="512" height="512" alt="emoji" src="https://github.com/user-attachments/assets/f5985e40-7176-4b30-bbb7-88a11593df2d" />
+)
 - Networking
 - Linux
 - Video editing
